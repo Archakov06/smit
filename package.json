@@ -1,0 +1,29 @@
+{
+  "name": "redux-like-store",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/smit.js",
+  "module": "dist/smit.es.js",
+  "umd:main": "dist/smit.umd.js",
+  "iife:main": "dist/smit.min.js",
+  "scripts": {
+    "start": "rollup -c",
+    "dev": "rollup -c --watch"
+  },
+  "repository": "Archakov06/Smit",
+  "keywords": [
+    "event",
+    "emitter",
+    "events",
+    "storage",
+    "localStorage"
+  ],
+  "homepage": "https://github.com/developit/mitt",
+  "dependencies": {
+    "rollup": "^1.19.4",
+    "rollup-plugin-size-snapshot": "^0.10.0",
+    "rollup-plugin-terser": "^5.1.1",
+    "rollup-plugin-typescript2": "^0.22.1",
+    "typescript": "^3.4.5"
+  }
+}
