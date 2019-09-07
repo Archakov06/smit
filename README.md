@@ -37,16 +37,16 @@ import smit from 'smit';
 
 const storage = smit();
 
-// listen of one key
+// Callback called when a key "title" is updated in localStorage
 storage.on('title', title => console.log('title updated', title));
 
-// listen of many keys
+// Listen of many keys in localStorage
 storage.on('foo', value => console.log('foo', value)).on('bar', value => console.log('bar', value));
 
-// remove listener
+// Remove listener
 storage.off('foo');
 
-// remove all listeners
+// Remove all listeners
 storage.off();
 
 // destroy the smit
