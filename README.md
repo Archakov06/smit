@@ -65,6 +65,10 @@ If you want to check how this smit works, open any of the following demos in two
 <br>
 **ReactJS:** [Source](https://codesandbox.io/s/happy-mclean-umjel) | [Demo](https://umjel.csb.app/)
 
+### Audio
+
+**VanillaJS:** [Source](https://trycode.pw/c/J0ERM) | [Demo](https://trycode.pw/c/J0ERM.html)
+
 ## Motivation
 
 ...
