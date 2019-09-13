@@ -57,6 +57,8 @@ storage.destroy();
 
 If you want to check how this smit works, open any of the following demos in two tabs.
 
+### Chat
+
 **VanillaJS:** [Source](https://codesandbox.io/s/thirsty-gagarin-2dnp9) | [Demo](https://2dnp9.csb.app/)
 <br>
 **VueJS:** [Source](https://codesandbox.io/s/vue-template-f17f6) | [Demo](https://f17f6.csb.app/)
